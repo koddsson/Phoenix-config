@@ -25,20 +25,6 @@ is being done. Alternatively, run:
 make
 ```
 
-### Install CoffeeScript
-
-If you don't have CoffeeScript installed, you'll need to install
-node/npm (use [`brew`](http://brew.sh))
-
-```shell
-brew install node
-npm install -g coffee-script
-```
-
-I assume you know what you're doing, if not, I wish you luck on your
-diligent googling. (let's face it you got this far, you can get a
-couple of command line tools installed, right?)
-
 ## Debugging helpers
 
     debug = (message)->
