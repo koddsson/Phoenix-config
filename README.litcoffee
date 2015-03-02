@@ -421,7 +421,7 @@ readable.
 
 ![][1]
 
-Mash is <kbd>Cmd</kbd> + <kbd>Alt/Opt</kbd> + <kbd>Ctrl</kbd> pressed together.
+Mash is <kbd>Cmd</kbd> + <kbd>Alt/Opt</kbd> pressed together.
 
     mash = ['cmd', 'alt']
 
