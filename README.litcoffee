@@ -439,7 +439,7 @@ readable.
 
 Mash is <kbd>Cmd</kbd> + <kbd>Alt/Opt</kbd> + <kbd>Ctrl</kbd> pressed together.
 
-    mash = 'cmd+alt+ctrl'.split '+'
+    mash = ['cmd', 'alt']
 
 Transpose/Swap Windows
 
